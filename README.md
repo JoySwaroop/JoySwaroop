@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Machine Learning with Android**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **ReactNative**
 
 - 💬 Ask me about **Android**
 
