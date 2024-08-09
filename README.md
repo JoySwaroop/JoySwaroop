@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Machine Learning with Android**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **IOS Development**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Android & IOS**
 
 - ⚡ Fun fact **I am Funny**
 
