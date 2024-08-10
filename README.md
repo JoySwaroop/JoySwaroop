@@ -1,6 +1,6 @@
 ![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVqUacfVUGE7OjFV3MbXuiFcRSv6W06eUWtGKXCXKFERB8k82n6RiBwgp9ljXI0druuMaj4Rbog2Ay_8aO3xIdaj__ikOwOCetuD3S8LqE8Xwbi1Aj0LxPRE7B0-Q_CzM14pd9iP-9sv-Un_dnIxIQCH4yFKaZiYNk8JVmXOW_e8BguW4Vn2jM9Z2DEg/s1600/Androidgo.gif)
 <h1 align="center">Hi 👋, I'm Joy Swaroop</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<h3 align="center">A passionate IOS developer and Android developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joyswaroop&label=Profile%20views&color=0e75b6&style=flat" alt="joyswaroop" /> </p>
