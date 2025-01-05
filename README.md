@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/joyswaroop1000" target="blank"><img src="https://img.shields.io/twitter/follow/joyswaroop1000?logo=twitter&style=for-the-badge" alt="joyswaroop1000" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning with Android**
+- 🔭 I’m currently working on **IOS And Android**
 
-- 🌱 I’m currently learning **IOS Development**
+- 🌱 I’m currently learning **Flutter Development**
 
 - 💬 Ask me about **Android & IOS**
 
