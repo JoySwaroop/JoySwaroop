@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **IOS And Android**
 
-- 🌱 I’m currently learning **Flutter Development**
+- 🌱 I’m currently learning **IOS Development**
 
 - 💬 Ask me about **Android & IOS**
 
